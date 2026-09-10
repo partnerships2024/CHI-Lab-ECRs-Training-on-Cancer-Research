@@ -41,10 +41,8 @@ PanTS can be used for:
 
 | model  | paper | github | P-Sen<sup>†</sup> | T-Sen<sup>‡</sup> | Spe | AUC | DSC | model |
 |:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| nnU-Net | [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1809.10486) | [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet) | | | | | | |
+| nnU-Net | [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/pdf/2507.01291v1) | [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MrGiovanni/PanTS.git) | | | | | | |
 
-**Swanson, K. et al. (2025).**  
-*The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies.* **Nature, 646, 716–723.**
 
 👉 [Read the Nature Paper](https://www.nature.com/articles/s41586-025-09442-9)
 
