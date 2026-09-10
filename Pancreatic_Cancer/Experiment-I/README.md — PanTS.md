@@ -39,8 +39,8 @@ PanTS can be used for:
 
 ## Motivation Literature Paper
 
-| paper | github | Spe | AUC | DSC | model |
-|:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| paper | github |
+
 | nnU-Net | [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1809.10486) | [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet) 
 
 
