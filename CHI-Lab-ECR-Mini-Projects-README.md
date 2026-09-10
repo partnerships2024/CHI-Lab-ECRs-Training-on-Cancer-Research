@@ -335,8 +335,8 @@ The Google Document can be used as the central coordination document for:
 | **CHI Lab Google Colab** | Add official Colab link |
 | **CHI Lab Google Document** | Add official Google Docs link |
 | **Literature Repository** | This repository |
-| **ECR Network** | Add official ECR Network link |
-| **ICRI-STE YouTube** | [![ICRI-STE Insights](https://img.shields.io/badge/CHI%20Lab-Computational%20Healthcare%20Intelligence-0A7EA4.svg)](https://www.youtube.com/@ICRI-STEInsights) |
+| **ECR Network** |  [future-leader.com](https://icriste.com/future-leaders/)  |
+| **ICRI-STE YouTube** | Add official ECR Network link |
 | **Research Proposals / Project Calls** | Add official link |
 
 ---
