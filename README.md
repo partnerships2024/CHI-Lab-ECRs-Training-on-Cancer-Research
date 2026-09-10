@@ -4,6 +4,8 @@
 
 # Computational Healthcare Intelligence Lab (CHI Lab)
 
+# PI | Dr. Didar Murad | PhD Computational Science & Engineering  
+
 ### Early Career Researcher (ECR) Mini Projects & Research Repository
 
 **AI • Computational Biology • Biomedical Systems • Medical Imaging • Digital Health • Agentic AI**
@@ -23,7 +25,6 @@
 
 The **Computational Healthcare Intelligence Lab (CHI Lab)** is a research laboratory focused on the integration of **computational science, artificial intelligence, machine learning, systems biology, biomedical modelling, medical imaging, and intelligent healthcare systems**.
 
-### CHI Lab Lead | Dr. Didar Murad | PhD Computational Science & Engineering  
 
 This repository provides a structured research environment for **Early Career Researchers (ECRs)** to develop practical research skills through small, reproducible projects and literature-driven investigations.
 
