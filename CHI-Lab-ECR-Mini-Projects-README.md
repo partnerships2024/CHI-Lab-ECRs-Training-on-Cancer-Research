@@ -20,7 +20,7 @@
 
 ---
 
-## 🏥 About CHI Lab
+## About CHI Lab
 
 The **Computational Healthcare Intelligence Lab (CHI Lab)** is a research laboratory focused on the integration of **computational science, artificial intelligence, machine learning, systems biology, biomedical modelling, medical imaging, and intelligent healthcare systems**.
 
@@ -32,27 +32,27 @@ The repository is designed to support the progression:
 
 ---
 
-## 🎯 Purpose of This Repository
+## Purpose of This Repository
 
 This GitHub repository serves as a central workspace for CHI Lab ECR activities, including:
 
-- 🧪 Mini research projects
-- 💻 Python / MATLAB / Jupyter / Google Colab experiments
-- 🧬 Computational biology and systems biology studies
-- 🧠 AI and machine learning implementations
-- 🩻 Medical image analysis and segmentation
-- 🧬 Multi-omics and gene-expression analysis
-- 🏥 Digital health and healthcare AI
-- 🤖 Agentic AI and AI-driven Virtual Laboratories
-- 📚 Literature reading and paper analysis
-- 📊 Data analysis and visualisation
-- 🔬 Reproducible computational experiments
-- 📝 Research notes, reports, and technical documentation
-- 🤝 Collaborative ECR research activities
+- Mini research projects
+- Python / MATLAB / Jupyter / Google Colab experiments
+- Computational biology and systems biology studies
+- AI and machine learning implementations
+- Medical image analysis and segmentation
+- Multi-omics and gene-expression analysis
+- Digital health and healthcare AI
+- Agentic AI and AI-driven Virtual Laboratories
+- Literature reading and paper analysis
+- Data analysis and visualisation
+- Reproducible computational experiments
+- Research notes, reports, and technical documentation
+- Collaborative ECR research activities
 
 ---
 
-# 👥 CHI Lab Early Career Researcher (ECR) Pathway
+# CHI Lab Early Career Researcher (ECR) Pathway
 
 CHI Lab supports researchers at different stages of their academic development.
 
@@ -62,7 +62,7 @@ CHI Lab supports researchers at different stages of their academic development.
 | **ECR2-MS** | Master's / Graduate | Independent mini-projects, modelling, ML/DL, computational experiments, research implementation |
 | **ECR3-PhD** | PhD / Doctoral | Advanced research, methodology development, interdisciplinary modelling, publications, supervision and collaboration |
 
-### 🔹 ECR1-BS — Foundation & Research Skills
+### ECR1-BS — Foundation & Research Skills
 
 Typical activities:
 
@@ -75,7 +75,7 @@ Typical activities:
 - Reproduction of published methods
 - Small computational experiments
 
-### 🔹 ECR2-MS — Applied Research & Modelling
+### ECR2-MS — Applied Research & Modelling
 
 Typical activities:
 
@@ -88,7 +88,7 @@ Typical activities:
 - Reproducible research pipelines
 - Independent mini-project development
 
-### 🔹 ECR3-PhD — Advanced Research & Scientific Leadership
+### ECR3-PhD — Advanced Research & Scientific Leadership
 
 Typical activities:
 
@@ -104,7 +104,7 @@ Typical activities:
 
 ---
 
-# 🧪 Mini Projects
+# Mini Projects
 
 Mini-projects are organised as **research-oriented computational tasks**, rather than isolated coding exercises.
 
@@ -130,7 +130,7 @@ Biological / Clinical Interpretation
 Documentation & Reproducibility
 ```
 
-## 📁 Suggested Project Structure
+## Suggested Project Structure
 
 Each mini-project should ideally follow a consistent structure:
 
@@ -162,11 +162,11 @@ project-name/
 
 ---
 
-# 🔬 Research Areas
+# Research Areas
 
 CHI Lab mini-projects may cover the following areas:
 
-### 🧬 Computational Biology & Systems Biology
+### Computational Biology & Systems Biology
 - Gene-expression analysis
 - Differential expression
 - Pathway analysis
@@ -175,7 +175,7 @@ CHI Lab mini-projects may cover the following areas:
 - ODE-based biological modelling
 - Multi-omics integration
 
-### 🤖 Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning
 - Classical machine learning
 - Deep learning
 - Transformers
@@ -184,7 +184,7 @@ CHI Lab mini-projects may cover the following areas:
 - Generative AI
 - Agentic AI
 
-### 🩻 Medical Imaging
+### Medical Imaging
 - Image classification
 - Object detection
 - Tumour segmentation
@@ -192,7 +192,7 @@ CHI Lab mini-projects may cover the following areas:
 - CT / MRI / histopathology analysis
 - Benchmarking segmentation models
 
-### 🏥 Computational Healthcare
+### Computational Healthcare
 - Clinical prediction
 - Digital health
 - Digital twins
@@ -200,7 +200,7 @@ CHI Lab mini-projects may cover the following areas:
 - Longitudinal health-data analysis
 - Privacy-preserving healthcare analytics
 
-### 🧪 AI-Driven Scientific Discovery
+### AI-Driven Scientific Discovery
 - AI research agents
 - Multi-agent scientific workflows
 - Virtual laboratories
@@ -211,7 +211,7 @@ CHI Lab mini-projects may cover the following areas:
 
 ---
 
-# 📚 Literature & Research Papers
+# Literature & Research Papers
 
 The repository also provides a curated space for **important research papers, literature notes, and paper-based mini-projects**.
 
@@ -228,7 +228,7 @@ Literature study should not be limited to downloading papers. ECRs are encourage
 9. Possible improvements
 10. Potential CHI Lab mini-project
 
-### 📂 Suggested Literature Structure
+### Suggested Literature Structure
 
 ```text
 literature/
@@ -258,7 +258,7 @@ Paper/
 
 ---
 
-# 🧠 Research Reproducibility Standard
+# Research Reproducibility Standard
 
 Every CHI Lab project should aim to be:
 
@@ -284,11 +284,11 @@ A good research repository should allow another researcher to understand:
 
 ---
 
-# ☁️ CHI Lab Google Colab
+# CHI Lab Google Colab
 
 Google Colab provides a convenient cloud-based environment for running CHI Lab notebooks without requiring a full local installation.
 
-### 🚀 CHI Lab Google Colab
+### CHI Lab Google Colab
 
 **[Open CHI Lab Google Colab →](YOUR_CHI_LAB_GOOGLE_COLAB_LINK)**
 
@@ -305,7 +305,7 @@ Recommended use:
 
 ---
 
-# 📄 CHI Lab Research & Project Google Document
+# CHI Lab Research & Project Google Document
 
 The Google Document can be used as the central coordination document for:
 
@@ -319,7 +319,7 @@ The Google Document can be used as the central coordination document for:
 - Project progress
 - Submission requirements
 
-### 🔗 CHI Lab Google Document
+### CHI Lab Google Document
 
 **[Open CHI Lab Research Google Document →](YOUR_CHI_LAB_GOOGLE_DOC_LINK)**
 
@@ -327,7 +327,7 @@ The Google Document can be used as the central coordination document for:
 
 ---
 
-# 🌐 Important CHI Lab & ICRI-STE Links
+# Important CHI Lab & ICRI-STE Links
 
 | Resource | Link |
 |:---|:---|
@@ -342,7 +342,7 @@ The Google Document can be used as the central coordination document for:
 
 ---
 
-# 🗂️ Recommended Repository Organisation
+# Recommended Repository Organisation
 
 ```text
 CHI-Lab-ECR-Mini-Projects/
@@ -388,7 +388,7 @@ CHI-Lab-ECR-Mini-Projects/
 
 ---
 
-# 🏆 ECR Research Workflow
+# ECR Research Workflow
 
 CHI Lab encourages ECRs to progress from **guided learning to independent research**.
 
@@ -421,7 +421,7 @@ CHI Lab encourages ECRs to progress from **guided learning to independent resear
 
 ---
 
-# 📊 Project Quality Checklist
+# Project Quality Checklist
 
 Before submitting a mini-project, researchers should check:
 
@@ -442,7 +442,7 @@ Before submitting a mini-project, researchers should check:
 
 ---
 
-# 🤝 Collaboration & Contribution
+# Collaboration & Contribution
 
 CHI Lab ECRs are encouraged to contribute through:
 
@@ -461,7 +461,7 @@ A contribution should be **scientifically meaningful, properly documented, and r
 
 ---
 
-# 🧑‍🔬 Research Ethics & Responsible AI
+# Research Ethics & Responsible AI
 
 Healthcare research requires particular attention to:
 
@@ -479,7 +479,7 @@ This repository is intended for **research and educational purposes**. Computati
 
 ---
 
-# 📖 Citation & Attribution
+# Citation & Attribution
 
 When using external datasets, models, software, or published methods:
 
@@ -502,7 +502,7 @@ For example:
 
 ---
 
-# 👨‍🔬 Research Leadership
+# Research Leadership
 
 <div align="center">
 
@@ -524,7 +524,7 @@ International Council for Research & Innovation in STE (ICRI-STE)
 
 ---
 
-## ⭐ Repository Vision
+## Repository Vision
 
 The long-term goal of this repository is to develop a **structured, reproducible, and collaborative research ecosystem** where ECRs can progress from foundational skills to advanced interdisciplinary research.
 
