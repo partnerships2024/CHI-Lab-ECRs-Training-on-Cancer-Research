@@ -44,12 +44,6 @@ PanTS can be used for:
 | nnU-Net | [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/pdf/2507.01291v1) | [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MrGiovanni/PanTS.git) | | | | | | |
 
 
-👉 [Read the Nature Paper](https://www.nature.com/articles/s41586-025-09442-9)
-
-**DOI:** 10.1038/s41586-025-09442-9
-
----
-
 <p align="center">
   <b>PanTS — Pancreatic Tumor Segmentation</b><br>
   AI • Medical Imaging • Computational Healthcare
