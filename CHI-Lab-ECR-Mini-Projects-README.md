@@ -2,7 +2,7 @@
       
 <img src="CHI-Lab.png" alt="CHI Lab Logo" width="120"/>
 
-# 🧬 Computational Healthcare Intelligence Lab (CHI Lab)
+# Computational Healthcare Intelligence Lab (CHI Lab)
 
 ### Early Career Researcher (ECR) Mini Projects & Research Repository
 
