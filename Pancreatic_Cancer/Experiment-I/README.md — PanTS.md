@@ -1,4 +1,4 @@
-# 🩻 PanTS: Pancreatic Tumor Segmentation
+# PanTS: Pancreatic Tumor Segmentation
 
 <p align="center">
   <b>A Medical Imaging Dataset for AI-Driven Pancreatic Tumor Segmentation</b>
@@ -6,28 +6,28 @@
 
 ---
 
-## 📌 About
+## About
 
 **PanTS** is a pancreatic tumor segmentation dataset designed to support **AI, deep learning, and medical image analysis** research for automated pancreatic tumor delineation.
 
-## 🎯 Key Features
+## Key Features
 
 - 🩻 Pancreatic medical imaging data
-- 🎯 Tumor segmentation annotations
-- 🤖 Suitable for AI/ML and deep learning
-- 🔬 Supports medical image analysis and computer-aided diagnosis
-- 📊 Designed for research and reproducible experiments
+- Tumor segmentation annotations
+- Suitable for AI/ML and deep learning
+- Supports medical image analysis and computer-aided diagnosis
+- Designed for research and reproducible experiments
 
-## 📥 Dataset
+## Dataset
 
 The complete dataset requires approximately **2 GB of storage**.
 
 **Data:**  
-👉 [Download PanTS Dataset – Google Drive](https://drive.google.com/file/d/1LbpsDu2MkSJpzq5pIAEm6Z0TAVZO8162/view?usp=sharing)
+ [Download PanTS Dataset – Google Drive](https://drive.google.com/file/d/1LbpsDu2MkSJpzq5pIAEm6Z0TAVZO8162/view?usp=sharing)
 
 > **Note:** Please ensure at least **2 GB of free storage** before downloading.
 
-## 🔬 Research Applications
+## Research Applications
 
 PanTS can be used for:
 
@@ -37,7 +37,11 @@ PanTS can be used for:
 - AI-assisted cancer research
 - Automated tumor delineation
 
-## 📚 Motivation Literature Paper
+## Motivation Literature Paper
+
+| model  | paper | github | P-Sen<sup>†</sup> | T-Sen<sup>‡</sup> | Spe | AUC | DSC | model |
+|:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| nnU-Net | [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1809.10486) | [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet) | | | | | | |
 
 **Swanson, K. et al. (2025).**  
 *The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies.* **Nature, 646, 716–723.**
