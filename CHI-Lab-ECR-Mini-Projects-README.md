@@ -9,7 +9,7 @@
 **AI • Computational Biology • Biomedical Systems • Medical Imaging • Digital Health • Agentic AI**
 
 [![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Computational%20Healthcare%20Intelligence-0A7EA4.svg)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
-[![ECR1](https://img.shields.io/badge/ECR1-BS%20%7C%20Undergraduate-2E7D32.svg)](#ecr-research-pathway)
+[![ECR1](https://img.shields.io/badge/ECR1-BS%20%7C%20Undergraduate-2E7D32.svg)](https://icriste.com/future-leaders/)
 [![ECR2](https://img.shields.io/badge/ECR2-MS%20%7C%20Graduate-F57C00.svg)](#ecr-research-pathway)
 [![ECR3](https://img.shields.io/badge/ECR3-PhD%20%7C%20Doctoral-C62828.svg)](#ecr-research-pathway)
 
