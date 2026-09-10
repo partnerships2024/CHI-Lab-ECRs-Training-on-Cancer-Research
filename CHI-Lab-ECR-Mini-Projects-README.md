@@ -336,7 +336,7 @@ The Google Document can be used as the central coordination document for:
 | **CHI Lab Google Document** | Add official Google Docs link |
 | **Literature Repository** | This repository |
 | **ECR Network** | Add official ECR Network link |
-| **ICRI-STE YouTube** |  [icriste.com]([https://icriste.com](https://www.youtube.com/@ICRI-STEInsights)) |
+| **ICRI-STE YouTube** | [![ECR1](https://img.shields.io/badge/ECR1-BS%20%7C%20Undergraduate-2E7D32.svg)]([#ecr-research-pathway](https://www.youtube.com/@ICRI-STEInsights)) |
 | **Research Proposals / Project Calls** | Add official link |
 
 ---
