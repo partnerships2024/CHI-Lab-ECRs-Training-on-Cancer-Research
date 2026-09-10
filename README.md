@@ -4,6 +4,9 @@
 
 # Computational Healthcare Intelligence Lab (CHI Lab)
 
+# CHI Lab Principal Investigator & Founding Director 
+# Dr. Didar Murad | PhD Computational Science & Engineering  
+
 ### Early Career Researcher (ECR) Mini Projects & Research Repository
 
 **AI • Computational Biology • Biomedical Systems • Medical Imaging • Digital Health • Agentic AI**
