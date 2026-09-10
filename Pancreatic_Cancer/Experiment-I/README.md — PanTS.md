@@ -37,11 +37,9 @@ PanTS can be used for:
 - AI-assisted cancer research
 - Automated tumor delineation
 
-## Motivation Literature Paper
+## Motivation Literature Papers
 
-| paper | github |
-
-|[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1809.10486) | [![GitHub](https://github.com/MIC-DKFZ/nnUNet) 
+[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1809.10486)  
 
 
 <p align="center">
