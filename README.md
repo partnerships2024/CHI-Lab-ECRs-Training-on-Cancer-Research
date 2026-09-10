@@ -4,7 +4,7 @@
 
 # Computational Healthcare Intelligence Lab (CHI Lab)
 
-### PI | Dr. Didar Murad   
+### Principal Investigator | Dr. Didar Murad   
 
 ### Early Career Researcher (ECR) Mini Projects & Research Repository
 
