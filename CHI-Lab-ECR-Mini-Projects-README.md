@@ -330,14 +330,14 @@ The Google Document can be used as the central coordination document for:
 
 | Resource | Link |
 |:---|:---|
-| 🏥 **CHI Lab / ICRI-STE Website** | [icriste.com](https://icriste.com) |
-| 💻 **CHI Lab GitHub Organisation / Repository** | Add official GitHub link |
-| ☁️ **CHI Lab Google Colab** | Add official Colab link |
-| 📄 **CHI Lab Google Document** | Add official Google Docs link |
-| 📚 **Literature Repository** | This repository |
-| 👥 **ECR Network** | Add official ECR Network link |
-| 📢 **ICRI-STE YouTube** | Add official YouTube link |
-| 🔬 **Research Proposals / Project Calls** | Add official link |
+| **CHI Lab / ICRI-STE Website** | [icriste.com](https://icriste.com) |
+| **CHI Lab GitHub Organisation / Repository** | Add official GitHub link |
+| **CHI Lab Google Colab** | Add official Colab link |
+| **CHI Lab Google Document** | Add official Google Docs link |
+| **Literature Repository** | This repository |
+| **ECR Network** | Add official ECR Network link |
+| **ICRI-STE YouTube** |  [icriste.com]([https://icriste.com](https://www.youtube.com/@ICRI-STEInsights)) |
+| **Research Proposals / Project Calls** | Add official link |
 
 ---
 
