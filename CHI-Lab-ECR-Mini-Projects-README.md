@@ -508,11 +508,10 @@ For example:
 
 ### Computational Healthcare Intelligence Lab (CHI Lab)
 
-**Principal Investigator**
+**Principal Investigator, CHI Lab**
 
 **Dr. Didar Murad**  
-PhD in Computational Science & Engineering  
-**Principal Investigator, CHI Lab**  
+PhD in Computational Science & Engineering   
 International Council for Research & Innovation in STE (ICRI-STE)
 
 ---
