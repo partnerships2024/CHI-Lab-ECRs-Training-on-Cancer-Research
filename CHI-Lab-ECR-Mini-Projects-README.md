@@ -1,4 +1,5 @@
 <div align="center">
+       
 <img src="CHI-Lab.png" alt="CHI Lab Logo" width="120"/>
 # 🧬 Computational Healthcare Intelligence Lab (CHI Lab)
 
