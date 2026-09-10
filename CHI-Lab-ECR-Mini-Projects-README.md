@@ -338,6 +338,7 @@ The Google Document can be used as the central coordination document for:
 | **ECR Network** |  [future-leader.com](https://icriste.com/future-leaders/)  |
 | **ICRI-STE YouTube** | Add official ECR Network link |
 | **Research Proposals / Project Calls** | Add official link |
+| **Book: Computational Healthcare Intelligence New and Emerging Trends An Interdisciplinary Research Book / Chapter Calls** | Add official link |
 
 ---
 
