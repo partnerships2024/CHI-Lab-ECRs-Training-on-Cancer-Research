@@ -19,7 +19,7 @@
 
 ---
 
-## About CHI Lab
+## About CHI Lab (Dry Lab)
 
 The **Computational Healthcare Intelligence Lab (CHI Lab)** is a research laboratory focused on the integration of **computational science, artificial intelligence, machine learning, systems biology, biomedical modelling, medical imaging, and intelligent healthcare systems**.
 
