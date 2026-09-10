@@ -4,7 +4,7 @@
 [![AI/ML](https://img.shields.io/badge/AI%2FML-Medical%20Imaging-6A5ACD.svg)](https://icriste.com)
 [![Status](https://img.shields.io/badge/Status-Research%20Project-success.svg)]()
 
-**PanTS (Pancreatic Tumor Segmentation)** is an AI-driven research project focused on the **automatic segmentation of pancreatic tumours from medical images**, with the goal of supporting accurate and reproducible computational analysis.
+**PanTS (Pancreatic Tumor Segmentation)** is an AI-driven research project focused on the **segmentation of pancreatic tumours from medical images**, with the goal of supporting accurate and reproducible computational analysis.
 
 ## Objective
 
