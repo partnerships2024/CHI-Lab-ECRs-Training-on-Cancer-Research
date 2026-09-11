@@ -292,7 +292,7 @@ Google Colab provides a convenient cloud-based environment for running CHI Lab n
 
 ### CHI Lab Google Colab
 
-**[Open CHI Lab Google Colab →](https://colab.research.google.com/drive/1bfj8_ct5JBE9lnL9pKMhoHss9nwIbMPG?usp=sharing)**
+**[Open CHI Lab Google Colab →](https://colab.research.google.com/drive/1G0gwLBB0ukdyIkIkklgy-LOvrFPLJ6l6?usp=sharing)**
 
 Recommended use:
 
