@@ -41,9 +41,7 @@ PanTS can be used for:
 |:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Professor Zongwei Zhou](https://www.zongweiz.com)| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2507.01291)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1912.05074)  | | | | | | | |
 
-[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2507.01291) 
-[Zongwei Zhou et al.](https://www.zongweiz.com)
-[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1912.05074) 
+
 
 
 <p align="center">
