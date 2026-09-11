@@ -37,9 +37,9 @@ PanTS can be used for:
 - Automated tumor delineation
 
 ## Motivation | Sites | Literature Papers
-| Authors  | paper | github | P-Sen<sup>†</sup> | T-Sen<sup>‡</sup> | Spe | AUC | DSC | model |
+| Sites | paper | github | P-Sen<sup>†</sup> | T-Sen<sup>‡</sup> | Spe | AUC | DSC | model |
 |:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Zongwei Zhou et al.](https://www.zongweiz.com)| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1809.10486) | [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet) | | | | | | |
+| [Professor Zong Weiz](https://www.zongweiz.com)| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1809.10486) | [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet) | | | | | | |
 
 [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2507.01291) 
 [Zongwei Zhou et al.](https://www.zongweiz.com)
