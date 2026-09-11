@@ -1,4 +1,4 @@
-# PanTS: Pancreatic Tumor Segmentation
+# Pancreatic Tumor Segmentation (PanTS)
 
 <p align="center">
   <b>A Medical Imaging Dataset for AI-Driven Pancreatic Tumor Segmentation</b>
@@ -12,9 +12,8 @@
 
 ## Key Features
 
-- 🩻 Pancreatic medical imaging data
+- Pancreatic medical imaging data
 - Tumor segmentation annotations
-- Suitable for AI/ML and deep learning
 - Supports medical image analysis and computer-aided diagnosis
 - Designed for research and reproducible experiments
 
