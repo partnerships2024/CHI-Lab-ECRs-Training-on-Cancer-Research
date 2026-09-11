@@ -53,58 +53,6 @@ This GitHub repository serves as a central workspace for CHI Lab ECR activities,
 
 ---
 
-# CHI Lab Early Career Researcher (ECR) Pathway
-
-CHI Lab supports researchers at different stages of their academic development.
-
-| Category | Researcher Level | Typical Focus |
-|:---:|:---|:---|
-| **ECR1-BS** | Bachelor's / Undergraduate | Fundamentals, coding, literature reading, data analysis, introductory AI/ML |
-| **ECR2-MS** | Master's / Graduate | Independent mini-projects, modelling, ML/DL, computational experiments, research implementation |
-| **ECR3-PhD** | PhD / Doctoral | Advanced research, methodology development, interdisciplinary modelling, publications, supervision and collaboration |
-
-### ECR1-BS — Foundation & Research Skills
-
-Typical activities:
-
-- Python / MATLAB fundamentals
-- Jupyter Notebook and Google Colab
-- Data preprocessing and visualisation
-- Basic statistics
-- Literature reading
-- Introduction to machine learning
-- Reproduction of published methods
-- Small computational experiments
-
-### ECR2-MS — Applied Research & Modelling
-
-Typical activities:
-
-- Machine learning and deep learning
-- Biomedical data analysis
-- Systems biology modelling
-- Medical image analysis
-- Gene-expression analysis
-- Model evaluation and benchmarking
-- Reproducible research pipelines
-- Independent mini-project development
-
-### ECR3-PhD — Advanced Research & Scientific Leadership
-
-Typical activities:
-
-- Research methodology development
-- Advanced computational modelling
-- Multi-omics / systems biology
-- Agentic AI research workflows
-- Digital twins and intelligent biomedical systems
-- Novel AI/ML architectures
-- Research validation and benchmarking
-- Manuscript development
-- Technical mentoring and ECR supervision
-
----
-
 # Mini Projects
 
 Mini-projects are organised as **research-oriented computational tasks**, rather than isolated coding exercises.
