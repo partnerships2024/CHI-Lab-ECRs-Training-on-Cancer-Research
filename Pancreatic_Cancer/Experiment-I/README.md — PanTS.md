@@ -39,7 +39,7 @@ PanTS can be used for:
 ## Motivation | Sites | Literature Papers
 | Sites | paper | github | - | - | - | - | - | - |
 |:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Professor Zongwei Zhou](https://www.zongweiz.com)| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2507.01291) | [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet) | | | | | | |
+| [Professor Zongwei Zhou](https://www.zongweiz.com)| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2507.01291) | [![GitHub stars]( https://github.com/MrGiovanni/PanTS/blob/main/README.md#external-out-of-distribution-test-set) | | | | | | |
 
 [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2507.01291) 
 [Zongwei Zhou et al.](https://www.zongweiz.com)
