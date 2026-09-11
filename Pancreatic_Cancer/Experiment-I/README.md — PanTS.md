@@ -39,6 +39,7 @@ PanTS can be used for:
 ## Motivation Literature Papers
 
 [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1809.10486) 
+[Zongwei Zhou et al.](https://www.zongweiz.com)
 [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1912.05074) 
 
 
